@@ -17,13 +17,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rituraj-kumar-b8b302224/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
 <a href="https://leetcode.com/riturajkumar7256/" target="blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=black&logoColor=orange&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  /></a>
-<a href="https://stackoverflow.com/users/19168229/rahul4019" target="blank"><img src="https://img.shields.io/static/v1?message=stackOverflow&logo=stackoverflow&label=&color=gray&logoColor=orange&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  /></a>
-</p>
-
+<a href="https://auth.geeksforgeeks.org/user/riturajkumar7256" target="blank"><img src="https://img.shields.io/static/v1?https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8TGTSa684GEzcTSQjOPsDYKO6caK1tTF1ZxGe1Krqw&s" height="30" alt="Gfg logo"  /></a>
 <h3 align="left">Tech stack</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,redux,express,nodejs,mongodb,css,html,c,bootstrap,cpp)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul4019&show_icons=true&locale=en&layout=compact" alt="rituraj0506" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rituraj0506&show_icons=true&locale=en&layout=compact" alt="rituraj0506" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rituraj0506&show_icons=true&locale=en" alt="rituraj0506" /></p>
