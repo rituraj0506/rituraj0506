@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rituraj0506&label=Profile%20views&color=0e75b6&style=flat" alt="rituraj0506" /> </p>
 
-- 🌱 I’m currently learning **Blockchain, Socket.IO and SQL**
+- 🌱 I’m currently learning **Flutter For Web Page Design**
 
 - 💬 Ask me about **C++,React, Express.js, JavaScript, Node.js**
 
