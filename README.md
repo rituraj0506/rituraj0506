@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Rituraj Kumar</h1>
-<h3 align="center">Passionate MERN stack developer with a strong grasp of Data Structures and Algorithms, aspiring to thrive as a Software Developer </h3>
+<h3 align="center">Passionate Mobile App Developer with a strong grasp of Data Structures and Algorithms, aspiring to thrive as a Software Developer </h3>
 
 <img align="right" alt="developer animation"  width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rituraj0506&label=Profile%20views&color=0e75b6&style=flat" alt="rituraj0506" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Andriod**
 
-- 💬 Ask me about **C++,React, Express.js, JavaScript, Node.js**
+- 💬 Ask me about **C++,Kotlin,Dart,Flutter,Javascript,Html,Css**
 
 - 📫 How to reach me **riturajkumar7256@gmail.com**
 
